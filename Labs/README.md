@@ -16,7 +16,7 @@
 #### 7- mv listing.txt list_output.txt
  
 #### 8- nl list_output.txt > list_output_number.txt
-#### (cat -n list_output.txt > list_output_number.txt)
+#### (cat -n list_output.txt >> list_output_number.txt)
  
 #### 9- tail -n 5 list_output_number.txt
 
